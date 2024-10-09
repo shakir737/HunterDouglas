@@ -18,7 +18,7 @@ const Baner2 = () => {
             with our high-quality custom window treatments. Our extensive
             collection of blinds, shades, shutters, and drapery are designed to
             enhance both the aesthetics and functionality of your home or
-            office. Whether you're looking for a sleek modern look or a classic
+            office. Whether you are looking for a sleek modern look or a classic
             elegant style, we have the perfect solutions for you.
           </p>
         </div>
