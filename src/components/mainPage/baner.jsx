@@ -1,9 +1,9 @@
 import Image from "next/image";
-import banerSmall from "@/../public/images/Group 1.svg";
-import banerMain from "@/../public/images/mainpage.png";
-import facebookIcon from "@/../public/images/hero-16px-logo-facebook.svg";
-import instagram from "@/../public/images/hero-16px-logo-instagram.svg";
-import pinterest from "@/../public/images/hero-16px-logo-pinterest.svg";
+import banerSmall from "../../../public/images/Group 1.svg";
+import banerMain from "../../../public/images/mainpage.png";
+import facebookIcon from "../../../public/images/hero-16px-logo-facebook.svg";
+import instagram from "../../../public/images/hero-16px-logo-instagram.svg";
+import pinterest from "../../../public/images/hero-16px-logo-pinterest.svg";
 
 const Baner = () => {
   return (

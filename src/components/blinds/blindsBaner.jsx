@@ -1,5 +1,5 @@
 import Image from "next/image";
-import service from "@/../public/images/GrayBannerWoodBlindImage.svg";
+import service from "../../../public/images/GrayBannerWoodBlindImage.svg";
 import { Blinds, Smartphone, ScrollText, Rows4 } from "lucide-react";
 const BlindsBaner = () => {
   return (

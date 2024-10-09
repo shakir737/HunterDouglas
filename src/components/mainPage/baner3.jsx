@@ -1,5 +1,5 @@
 import Image from "next/image";
-import baner from "@/../public/images/WhyChooseBlindArizonaImage.png";
+import baner from "../../../public/images/WhyChooseBlindArizonaImage.png";
 
 const Baner3 = () => {
   return (
