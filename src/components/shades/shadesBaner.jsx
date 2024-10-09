@@ -1,5 +1,5 @@
 import Image from "next/image";
-import service from "@/../public/images/image-19.png";
+import service from "../../../public/images/image-19.png";
 import { Blinds, Smartphone, ScrollText, Rows4 } from "lucide-react";
 const ShadesBaner = () => {
   return (

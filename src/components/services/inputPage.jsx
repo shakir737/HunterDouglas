@@ -1,5 +1,5 @@
 import Image from "next/image";
-import baner from "@/../public/images/Motorization.png";
+import baner from "../../../public/images/Motorization.png";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import {

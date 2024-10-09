@@ -1,5 +1,5 @@
 import Image from "next/image";
-import service from "@/../public/images/our service.png";
+import service from "../../../public/images/our service.png";
 
 const Process = () => {
   return (
