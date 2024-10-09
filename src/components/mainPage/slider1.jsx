@@ -1,8 +1,8 @@
 import Image from "next/image";
-import blinds from "../../../public/images/Blinds.png";
-import shades from "../../../public/images/Shades.png";
-import shutters from "../../../public/images/Shutters.png";
-import drapery from "../../../public/images/Drapery.png";
+import blinds from "@/public/images/Blinds.png";
+import shades from "@/public/images/Shades.png";
+import shutters from "@/public/images/Shutters.png";
+import drapery from "@/public/images/Drapery.png";
 const Slider1 = () => {
   return (
     <>

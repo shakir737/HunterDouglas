@@ -1,5 +1,5 @@
 import Image from "next/image";
-import baner from "../../../public/images/Motorization.png";
+import baner from "@/public/images/Motorization.png";
 
 const Baner5 = () => {
   return (
