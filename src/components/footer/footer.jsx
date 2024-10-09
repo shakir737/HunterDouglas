@@ -1,7 +1,7 @@
 import Image from "next/image";
 import footerLogo from "@/public/images/LogoFooter.png";
-import rgmLogo from "@/public/images/RGM Logo.png";
-import followUS from "@/public/images/follow us.png";
+import rgmLogo from "@/public/images/RGMLogo.png";
+import followUS from "@/public/images/followus.png";
 const Footer = () => {
   return (
     <>

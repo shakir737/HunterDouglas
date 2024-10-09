@@ -1,7 +1,7 @@
 import React from "react";
-import facebookIcon from "@/public/images/hero-16px-logo-facebook.svg";
-import instagram from "@/public/images/hero-16px-logo-instagram.svg";
-import pinterest from "@/public/images/hero-16px-logo-pinterest.svg";
+import facebookIcon from "@/public/images/herofacebook.svg";
+import instagram from "@/public/images/heroinstagram.svg";
+import pinterest from "@/public/images/heropinterest.svg";
 import logo from "@/public/images/logo2.png";
 import Image from "next/image";
 import { Button } from "../ui/button";
