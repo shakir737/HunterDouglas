@@ -1,6 +1,6 @@
 import Image from "next/image";
 import banerSmall from "@/public/images/LogoFooter.png";
-import banerMain from "@/public/images/imageBackground.png";
+import banerMain from "@/public/images/imageBack.png";
 import facebookIcon from "@/public/images/herofacebook.svg";
 import instagram from "@/public/images/heroinstagram.svg";
 import pinterest from "@/public/images/heropinterest.svg";
