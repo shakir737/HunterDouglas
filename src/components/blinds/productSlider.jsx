@@ -1,8 +1,8 @@
 import Image from "next/image";
-import blinds from "../../../public/images/Blinds.png";
-import shades from "../../../public/images/Mask-group.png";
-import shutters from "../../../public/images/Mask-group-1.png";
-import drapery from "../../../public/images/Mask-group-2.png";
+import blinds from "@/public/images/Blinds.png";
+import shades from "@/public/images/Mask-group.png";
+import shutters from "@/public/images/Mask-group-1.png";
+import drapery from "@/public/images/Mask-group-2.png";
 const ProductSlider = () => {
   return (
     <>
